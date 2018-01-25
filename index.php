@@ -68,7 +68,7 @@ switch($sorting)
 
 </head>
 <body>
-	
+	<p>Git shop</p>
 	<div id="block-body"> 
 	<?php
 		include ("include/block-header.php");
